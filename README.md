@@ -1,6 +1,6 @@
 * 🙋‍♂️ Hey there! I’m Pankaj Sahu
 * 👨‍🎓 B.Tech in Electronics & Telecommunication
-* 🏢 Systems Engineer @TCS
+* 🏢 Cloud DevOps Engineer @TCS
 * 🤩 I’m interested in AWS Cloud Computing and DevOps
 * 🤵 Community Member:
 #AWS Emerging Talent Community
