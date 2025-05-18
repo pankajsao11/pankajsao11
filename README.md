@@ -32,6 +32,15 @@ AWS Emerging Talent Community & AWS Certified Global Community
 
 ![Macro_Social_16x9](https://github.com/user-attachments/assets/8a5deb57-a470-45f8-9825-1952f516ca3d)
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajsao11&show_icons=true&locale=en&layout=compact" alt="pankajsao11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajsao11&show_icons=true&locale=en" alt="pankajsao11" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pankajsao11/pankajsao11/output/snake.svg" alt="Snake animation" />
+
+###
