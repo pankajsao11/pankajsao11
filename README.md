@@ -1,11 +1,13 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Pankaj Sahu</h1>
 <h3 align="center">Cloud DevOps Engineer</h3>
-* 👨‍🎓 B.Tech in Electronics & Telecommunication
-* 🤵 Community Member:
-#AWS Emerging Talent Community
-#AWS Certified Global Community
+
+- 👨‍🎓 B.Tech in Electronics & Telecommunication
+- 🤵 Community Member:
+AWS Emerging Talent Community & AWS Certified Global Community
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsao11&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsao11" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajsao11" alt="pankajsao11" /></a> </p>
 
